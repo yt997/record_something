@@ -190,6 +190,7 @@ namespace 入门小案例
                             }
                             if (exitScene)
                             {
+                                exitScene = false;
                                 break;
                             }
                         }
@@ -466,6 +467,7 @@ namespace 入门小案例
                             }
                             if (exitScene)
                             {
+                                exitScene = false;
                                 break;
                             }
                         }
